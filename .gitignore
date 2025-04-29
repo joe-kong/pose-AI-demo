@@ -1,0 +1,44 @@
+# Kotlin build artifacts
+/build/
+/out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+gradle-app.setting
+gradle-wrapper.properties
+
+# Android Studio (if applicable)
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
+
+# Kotlin compiler caches
+.kotlinc/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Environment variables
+.env
+
+# JetBrains IDE files
+*.iws
+.idea/
